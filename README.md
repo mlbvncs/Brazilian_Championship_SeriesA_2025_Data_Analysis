@@ -1,2 +1,1 @@
-# Brazilian_Championship_SeriesA_2025
-Data Analysis using Python
+Customized analysis of the brazilian_championship_seriesa (2021-2025) dataset obtained through web scraping, seeking to identify if there are teams monopolizing Brazilian football (Análise personalizada do dataset brazilian_championship_seriesa (2021-2025) obtido através de web scraping, buscando identificar se há time que estão monopolizando o futebol brasileiro). 
