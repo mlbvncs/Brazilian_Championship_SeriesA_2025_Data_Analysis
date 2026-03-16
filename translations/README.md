@@ -1,0 +1,2 @@
+### Análise
+Análise descritiva do dataset brazilian_championship_seriesa (2021-2025) obtido através de web scraping, buscando identificar se há times que estão monopolizando o futebol brasileiro a partir da relação time + ano e as outras variáveis.
