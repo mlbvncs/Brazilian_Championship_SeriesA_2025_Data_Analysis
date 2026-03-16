@@ -4,7 +4,7 @@ Descriptive analysis of the brazilian_championship_seriesa (2021-2025) dataset o
 1. notebooks/web_scraping.ipynb;
 2. data/raw/brazilian_championship_seriesa.csv;
 3. notebooks/analysis.ipynb;
-4. powerbi.
+4. powerbi/.
 ### Translation
 Access the translations folder to view the Portuguese (Brazil) translation.
 ### Medium post
